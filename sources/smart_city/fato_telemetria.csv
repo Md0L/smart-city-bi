@@ -1,0 +1,10 @@
+﻿data_hora,device_id,consumo_kwh,nivel_preenchimento_pct,status_alerta,mttr_minutos,economia_dimerizacao_brl
+2026-11-10 08:00:00,ILUM-001,0.15,0,Normal,0,12.50
+2026-11-10 14:00:00,ILUM-002,0.00,0,Falha Eletrica,45,0.00
+2026-11-10 22:00:00,ILUM-003,0.12,0,Normal,0,38.40
+2026-11-10 09:30:00,LIX-001,0,92,Critico,30,0.00
+2026-11-10 15:00:00,LIX-002,0,88,Critico,25,0.00
+2026-11-10 18:00:00,LIX-003,0,40,Normal,0,0.00
+2026-11-11 21:00:00,ILUM-001,0.10,0,Normal,0,18.20
+2026-11-11 23:00:00,ILUM-002,0.18,0,Normal,0,42.10
+2026-11-11 11:00:00,LIX-001,0,95,Critico,50,0.00

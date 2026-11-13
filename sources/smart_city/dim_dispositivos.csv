@@ -1,0 +1,7 @@
+﻿device_id,tipo,bairro,latitude,longitude,potencia_nominal_w
+ILUM-001,Iluminacao,Centro,-3.7319,-38.5267,150
+ILUM-002,Iluminacao,Aldeota,-3.7380,-38.5015,250
+ILUM-003,Iluminacao,Meireles,-3.7265,-38.4980,250
+LIX-001,Lixeira,Centro,-3.7305,-38.5250,0
+LIX-002,Lixeira,Beira Mar,-3.7240,-38.4920,0
+LIX-003,Lixeira,Aldeota,-3.7410,-38.5050,0
